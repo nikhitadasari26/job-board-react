@@ -1,0 +1,395 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Senior Frontend Developer",
+            "companyId": 1,
+            "location": "New York, NY",
+            "jobType": "Remote",
+            "salary": 150000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "React",
+                "TypeScript",
+                "GraphQL"
+            ],
+            "postedDate": "2023-10-26T10:00:00Z"
+        },
+        {
+            "id": 2,
+            "title": "Full Stack Engineer",
+            "companyId": 2,
+            "location": "San Francisco, CA",
+            "jobType": "Hybrid",
+            "salary": 180000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "React",
+                "Node.js",
+                "PostgreSQL"
+            ],
+            "postedDate": "2023-10-25T09:00:00Z"
+        },
+        {
+            "id": 3,
+            "title": "Junior Web Developer",
+            "companyId": 3,
+            "location": "Austin, TX",
+            "jobType": "Onsite",
+            "salary": 75000,
+            "experienceLevel": "Junior",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "postedDate": "2023-10-24T14:30:00Z"
+        },
+        {
+            "id": 4,
+            "title": "React Native Developer",
+            "companyId": 4,
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 130000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "React Native",
+                "TypeScript",
+                "Redux"
+            ],
+            "postedDate": "2023-10-24T11:00:00Z"
+        },
+        {
+            "id": 5,
+            "title": "Frontend Architect",
+            "companyId": 1,
+            "location": "New York, NY",
+            "jobType": "Remote",
+            "salary": 200000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "React",
+                "Webpack",
+                "Performance"
+            ],
+            "postedDate": "2023-10-23T16:00:00Z"
+        },
+        {
+            "id": 6,
+            "title": "UI Engineer",
+            "companyId": 5,
+            "location": "Seattle, WA",
+            "jobType": "Hybrid",
+            "salary": 140000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "React",
+                "Tailwind",
+                "Figma"
+            ],
+            "postedDate": "2023-10-23T10:00:00Z"
+        },
+        {
+            "id": 7,
+            "title": "Backend Developer",
+            "companyId": 2,
+            "location": "San Francisco, CA",
+            "jobType": "Onsite",
+            "salary": 160000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Node.js",
+                "Express",
+                "MongoDB"
+            ],
+            "postedDate": "2023-10-22T09:30:00Z"
+        },
+        {
+            "id": 8,
+            "title": "Data Visualization Engineer",
+            "companyId": 6,
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 145000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "D3.js",
+                "React",
+                "SVG"
+            ],
+            "postedDate": "2023-10-22T08:00:00Z"
+        },
+        {
+            "id": 9,
+            "title": "Software Engineer Intern",
+            "companyId": 3,
+            "location": "Austin, TX",
+            "jobType": "Onsite",
+            "salary": 50000,
+            "experienceLevel": "Internship",
+            "skills": [
+                "JavaScript",
+                "Python"
+            ],
+            "postedDate": "2023-10-21T13:00:00Z"
+        },
+        {
+            "id": 10,
+            "title": "DevOps Engineer",
+            "companyId": 4,
+            "location": "Denver, CO",
+            "jobType": "Remote",
+            "salary": 135000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Docker",
+                "Kubernetes",
+                "AWS"
+            ],
+            "postedDate": "2023-10-20T11:30:00Z"
+        },
+        {
+            "id": 11,
+            "title": "Product Designer",
+            "companyId": 5,
+            "location": "Seattle, WA",
+            "jobType": "Hybrid",
+            "salary": 125000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Figma",
+                "Sketch",
+                "Prototyping"
+            ],
+            "postedDate": "2023-10-20T10:00:00Z"
+        },
+        {
+            "id": 12,
+            "title": "Lead Frontend Developer",
+            "companyId": 6,
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 170000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Vue.js",
+                "Nuxt",
+                "TypeScript"
+            ],
+            "postedDate": "2023-10-19T15:00:00Z"
+        },
+        {
+            "id": 13,
+            "title": "QA Automation Engineer",
+            "companyId": 1,
+            "location": "New York, NY",
+            "jobType": "Remote",
+            "salary": 110000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Cypress",
+                "Selenium",
+                "JavaScript"
+            ],
+            "postedDate": "2023-10-19T09:00:00Z"
+        },
+        {
+            "id": 14,
+            "title": "Mobile Developer",
+            "companyId": 7,
+            "location": "Chicago, IL",
+            "jobType": "Hybrid",
+            "salary": 130000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Swift",
+                "iOS",
+                "Objective-C"
+            ],
+            "postedDate": "2023-10-18T14:00:00Z"
+        },
+        {
+            "id": 15,
+            "title": "Android Developer",
+            "companyId": 7,
+            "location": "Chicago, IL",
+            "jobType": "Onsite",
+            "salary": 125000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Kotlin",
+                "Android",
+                "Java"
+            ],
+            "postedDate": "2023-10-18T10:30:00Z"
+        },
+        {
+            "id": 16,
+            "title": "Full Stack Developer",
+            "companyId": 8,
+            "location": "Boston, MA",
+            "jobType": "Remote",
+            "salary": 155000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Ruby on Rails",
+                "React",
+                "PostgreSQL"
+            ],
+            "postedDate": "2023-10-17T16:00:00Z"
+        },
+        {
+            "id": 17,
+            "title": "Frontend Developer",
+            "companyId": 8,
+            "location": "Boston, MA",
+            "jobType": "Hybrid",
+            "salary": 100000,
+            "experienceLevel": "Junior",
+            "skills": [
+                "React",
+                "CSS",
+                "Git"
+            ],
+            "postedDate": "2023-10-17T11:00:00Z"
+        },
+        {
+            "id": 18,
+            "title": "Machine Learning Engineer",
+            "companyId": 9,
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 190000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Python",
+                "TensorFlow",
+                "PyTorch"
+            ],
+            "postedDate": "2023-10-16T13:30:00Z"
+        },
+        {
+            "id": 19,
+            "title": "Data Engineer",
+            "companyId": 9,
+            "location": "Remote",
+            "jobType": "Remote",
+            "salary": 160000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Spark",
+                "Hadoop",
+                "Python"
+            ],
+            "postedDate": "2023-10-16T09:00:00Z"
+        },
+        {
+            "id": 20,
+            "title": "Security Engineer",
+            "companyId": 10,
+            "location": "Washington, DC",
+            "jobType": "Onsite",
+            "salary": 150000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Cybersecurity",
+                "Penetration Testing",
+                "Python"
+            ],
+            "postedDate": "2023-10-15T15:00:00Z"
+        },
+        {
+            "id": 21,
+            "title": "Site Reliability Engineer",
+            "companyId": 10,
+            "location": "Washington, DC",
+            "jobType": "Hybrid",
+            "salary": 145000,
+            "experienceLevel": "Mid",
+            "skills": [
+                "Linux",
+                "Ansible",
+                "Terraform"
+            ],
+            "postedDate": "2023-10-15T10:00:00Z"
+        },
+        {
+            "id": 22,
+            "title": "Go Developer",
+            "companyId": 2,
+            "location": "San Francisco, CA",
+            "jobType": "Remote",
+            "salary": 165000,
+            "experienceLevel": "Senior",
+            "skills": [
+                "Go",
+                "Microservices",
+                "gRPC"
+            ],
+            "postedDate": "2023-10-14T12:00:00Z"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "Tech Solutions Inc.",
+            "size": "1000+",
+            "description": "A leading provider of innovative tech solutions."
+        },
+        {
+            "id": 2,
+            "name": "Cloud Systems",
+            "size": "500-1000",
+            "description": "Experts in cloud infrastructure and scaling."
+        },
+        {
+            "id": 3,
+            "name": "WebWizards",
+            "size": "50-200",
+            "description": "Creating magical web experiences for everyone."
+        },
+        {
+            "id": 4,
+            "name": "Appify",
+            "size": "200-500",
+            "description": "Building the future of mobile applications."
+        },
+        {
+            "id": 5,
+            "name": "DesignHub",
+            "size": "100-200",
+            "description": "Design-driven product development agency."
+        },
+        {
+            "id": 6,
+            "name": "DataWorks",
+            "size": "50-100",
+            "description": "Making data accessible and understandable."
+        },
+        {
+            "id": 7,
+            "name": "MobileMinds",
+            "size": "20-50",
+            "description": "Specialized mobile app development studio."
+        },
+        {
+            "id": 8,
+            "name": "CodeCrafters",
+            "size": "10-50",
+            "description": "Crafting quality software with passion."
+        },
+        {
+            "id": 9,
+            "name": "AI Frontiers",
+            "size": "20-100",
+            "description": "Pushing the boundaries of artificial intelligence."
+        },
+        {
+            "id": 10,
+            "name": "SecureNet",
+            "size": "500+",
+            "description": "Securing the digital world one bit at a time."
+        }
+    ]
+}
